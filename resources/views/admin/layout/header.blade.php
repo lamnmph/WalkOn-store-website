@@ -13,7 +13,7 @@
                                 <input type="text" placeholder="Tìm kiếm..." />
                             </div>
                             <button type="submit">
-                                <img src="img/icon/icon_search.svg" alt="" />
+                                <img src="{{url('img/icon/icon_search.svg')}}" alt="" />
                             </button>
                         </form>
                     </div>

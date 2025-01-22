@@ -92,7 +92,7 @@
                         <div class="icon_menu">
                             <img src="img/menu-icon/6.svg" alt="" />
                         </div>
-                        <span>Invoice</span>
+                        <span>Hóa đơn</span>
                     </a>
                 </li>
                 <li class="">
@@ -100,7 +100,7 @@
                         <div class="icon_menu">
                             <img src="img/menu-icon/7.svg" alt="" />
                         </div>
-                        <span>Calander</span>
+                        <span>Lịch trình</span>
                     </a>
                 </li>
 
@@ -109,13 +109,13 @@
                         <div class="icon_menu">
                             <img src="img/menu-icon/8.svg" alt="" />
                         </div>
-                        <span>Products</span>
+                        <span>Sản phẩm</span>
                     </a>
                     <ul>
-                        <li><a href="Products.html">Products</a></li>
-                        <li><a href="Product_Details.html">Product Details</a></li>
-                        <li><a href="Cart.html">Cart</a></li>
-                        <li><a href="Checkout.html">Checkout</a></li>
+                        <li><a href="Products.html">Sản phẩm</a></li>
+                        <li><a href="Product_Details.html">Sản phẩm chi tiết</a></li>
+                        <li><a href="Cart.html">Giỏ hàng</a></li>
+                        <li><a href="Checkout.html">Thanh toán</a></li>
                     </ul>
                 </li>
                 <li class="">
@@ -220,11 +220,11 @@
                         <div class="icon_menu">
                             <img src="img/menu-icon/15.svg" alt="" />
                         </div>
-                        <span>Maps</span>
+                        <span>Bản đồ</span>
                     </a>
                     <ul>
-                        <li><a href="mapjs.html">Maps JS</a></li>
-                        <li><a href="vector_map.html">Vector Maps</a></li>
+                        <li><a href="mapjs.html">Bản đồ định vị JS</a></li>
+                        <li><a href="vector_map.html">Bản đồ vector</a></li>
                     </ul>
                 </li>
                 <li class="">
@@ -232,15 +232,15 @@
                         <div class="icon_menu">
                             <img src="img/menu-icon/16.svg" alt="" />
                         </div>
-                        <span>Pages</span>
+                        <span>Trang web</span>
                     </a>
                     <ul>
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="resister.html">Register</a></li>
-                        <li><a href="error_400.html">Error 404</a></li>
-                        <li><a href="error_500.html">Error 500</a></li>
-                        <li><a href="forgot_pass.html">Forgot Password</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="login.html">Đăng nhập</a></li>
+                        <li><a href="resister.html">Đăng kí</a></li>
+                        <li><a href="error_400.html">Lỗi 404</a></li>
+                        <li><a href="error_500.html">Lỗi 500</a></li>
+                        <li><a href="forgot_pass.html">Quên mật khẩu</a></li>
+                        <li><a href="gallery.html">Trưng bày</a></li>
                     </ul>
                 </li>
             </ul>

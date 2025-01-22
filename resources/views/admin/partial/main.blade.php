@@ -31,7 +31,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Revenue</h3>
+                                    <h3 class="m-0">Doanh thu </h3>
                                 </div>
                                 <div
                                     class="float-lg-right float-none sales_renew_btns justify-content-end">
@@ -65,7 +65,7 @@
                                 </p>
                             </div>
                             <div class="create_report_btn">
-                                <a href="#" class="btn_1 mt-1 mb-1">Create Report</a>
+                                <a href="#" class="btn_1 mt-1 mb-1">Tạo bài báo cáo</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Total Sales Unit</h3>
+                                    <h3 class="m-0">Tổng số cửa hàng</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -89,15 +89,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i>Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -113,19 +113,17 @@
                     </div>
                     <div class="sales_unit_footer d-flex justify-content-between">
                         <div class="single_sales">
-                            <p>This Month Revenue</p>
+                            <p>Doanh thu của tháng này</p>
                             <h3>$57k</h3>
                             <p class="d-flex align-items-center">
-                                <i class="ti-arrow-up"></i> <span> 14.5%</span> Up From Last
-                                Month
+                                <i class="ti-arrow-up"></i> <span> 14.5%</span> so với tháng trước
                             </p>
                         </div>
                         <div class="single_sales disable_sales">
-                            <p>This Month Revenue</p>
+                            <p>Doanh thu của tháng này</p>
                             <h3>$14k</h3>
                             <p class="d-flex align-items-center">
-                                <i class="ti-arrow-up"></i> <span> 14.5%</span> Up From Last
-                                Month
+                                <i class="ti-arrow-up"></i> <span> 14.5%</span> so với tháng trước
                             </p>
                         </div>
                     </div>
@@ -136,7 +134,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Daily Sales</h3>
+                                    <h3 class="m-0">Bán hàng hàng ngày</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -150,15 +148,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i> Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -174,7 +172,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Summary</h3>
+                                    <h3 class="m-0">Bản tóm tắt</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -188,15 +186,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i> Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -229,16 +227,16 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Total order</h3>
+                                    <h3 class="m-0">Tổng số đơn hàng</h3>
                                 </div>
                                 <div
                                     class="float-lg-right float-none sales_renew_btns justify-content-end">
                                     <ul class="nav">
                                         <li class="nav-item">
-                                            <a class="nav-link active" href="#">Today</a>
+                                            <a class="nav-link active" href="#">Hôm nay</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">This week</a>
+                                            <a class="nav-link" href="#">Tuần này</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -259,7 +257,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Transaction</h3>
+                                    <h3 class="m-0">Giao dịch</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -273,15 +271,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i> Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -301,7 +299,7 @@
                                             <td>
                                                 <div class="payment_gatway">
                                                     <h5 class="byer_name f_s_16 f_w_700 color_theme">
-                                                        Electricity Bill
+                                                        Hóa đơn tiền điện
                                                     </h5>
                                                     <p class="color_gray f_s_12 f_w_700">
                                                         10 Aug 03:00PM
@@ -326,7 +324,7 @@
                                             <td>
                                                 <div class="payment_gatway">
                                                     <h5 class="byer_name f_s_16 f_w_700 color_theme">
-                                                        Showroom Rent
+                                                        Thuê mặt bằng bán hàng
                                                     </h5>
                                                     <p class="color_gray f_s_12 f_w_700">
                                                         10 Aug 03:00PM
@@ -351,7 +349,7 @@
                                             <td>
                                                 <div class="payment_gatway">
                                                     <h5 class="byer_name f_s_16 f_w_700 color_theme">
-                                                        Iron Costing
+                                                        Tính giá sản phẩm
                                                     </h5>
                                                     <p class="color_gray f_s_12 f_w_700">
                                                         10 Aug 03:00PM
@@ -376,7 +374,7 @@
                                             <td>
                                                 <div class="payment_gatway">
                                                     <h5 class="byer_name f_s_16 f_w_700 color_theme">
-                                                        Packeging Cost
+                                                        Chi phí đóng gói
                                                     </h5>
                                                     <p class="color_gray f_s_12 f_w_700">
                                                         10 Aug 03:00PM
@@ -402,13 +400,13 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">News & Update</h3>
+                                    <h3 class="m-0">Mới nhất & cập nhật</h3>
                                 </div>
                                 <div class="single_wrap_input">
                                     <select class="nice_Select2 wide" name="" id="">
-                                        <option value="1">Today</option>
-                                        <option value="1">Tomorrow</option>
-                                        <option value="1">Yesterday</option>
+                                        <option value="1">Hôm nay</option>
+                                        <option value="1">Ngày mai</option>
+                                        <option value="1">Hôm qua</option>
                                     </select>
                                 </div>
                             </div>
@@ -416,7 +414,7 @@
                         <div class="white_card_body">
                             <div class="single_update_news">
                                 <h5 class="byer_name f_s_16 f_w_600 color_theme2">
-                                    36% off For pixel lights Couslations Types.
+                                    Giảm giá 36% cho các loại giày adidas.
                                 </h5>
                                 <p class="color_gray f_s_12 f_w_700">
                                     Sorem Kpsum is simply of the printing..
@@ -424,7 +422,7 @@
                             </div>
                             <div class="single_update_news">
                                 <h5 class="byer_name f_s_16 f_w_600 color_theme2">
-                                    We are produce new product this
+                                    Chúng tôi đang sản xuất sản phẩm mới này
                                 </h5>
                                 <p class="color_gray f_s_12 f_w_700">
                                     Gorem Rpsum is simply text of the printing...
@@ -432,7 +430,7 @@
                             </div>
                             <div class="single_update_news">
                                 <h5 class="byer_name f_s_16 f_w_600 color_theme2">
-                                    50% off For COVID Couslations Types.
+                                    Giảm 50% cho các loại khớp nối COVID.
                                 </h5>
                                 <p class="color_gray f_s_12 f_w_700">
                                     EoremHpsum is simply dummy...
@@ -441,7 +439,7 @@
                             <div class="load_more_button text-center mt_30">
                                 <a
                                     class="theme_text_btn d-flex align-items-center justify-content-center"
-                                    href="#">Load more <i class="ti-angle-down f_s_12 ms-2"></i>
+                                    href="#">Tìm hiểu thêm <i class="ti-angle-down f_s_12 ms-2"></i>
                                 </a>
                             </div>
                         </div>
@@ -452,7 +450,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Account Info</h3>
+                                    <h3 class="m-0">Thông tin tài khoản</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -466,15 +464,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i> Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -485,27 +483,27 @@
                                 <div
                                     class="single_plan d-flex align-items-center justify-content-between">
                                     <h5 class="color_theme2 f_s_14 f_w_700 mb-0">
-                                        Monthly Plan
+                                        Kế hoạch trong tháng
                                     </h5>
                                     <span class="color_gray2 f_s_16 f_w_700">$25</span>
                                 </div>
                                 <div
                                     class="single_plan d-flex align-items-center justify-content-between">
-                                    <h5 class="color_theme2 f_s_14 f_w_700 mb-0">Taxes</h5>
+                                    <h5 class="color_theme2 f_s_14 f_w_700 mb-0">Thuế VAT</h5>
                                     <span class="color_gray2 f_s_16 f_w_700">$14</span>
                                 </div>
                                 <div
                                     class="single_plan d-flex align-items-start justify-content-between">
                                     <div>
-                                        <h5 class="color_theme2 f_s_14 f_w_700 mb-0">Extera</h5>
+                                        <h5 class="color_theme2 f_s_14 f_w_700 mb-0">Khác</h5>
                                         <p class="f_s_13 f_w_700">
-                                            Netflix and other bills in this month.
+                                            Netflix và các hóa đơn khác trong tháng này.
                                         </p>
                                     </div>
                                     <span class="color_gray2 f_s_16 f_w_700">$25</span>
                                 </div>
                                 <div class="total_blance mt_20 mb_10">
-                                    <span class="f_s_13 f_w_700 color_gray">Total balance</span>
+                                    <span class="f_s_13 f_w_700 color_gray">Tổng doanh thu</span>
                                     <div
                                         class="total_blance_inner d-flex align-items-center flex-wrap justify-content-between">
                                         <div>
@@ -514,10 +512,10 @@
                                         </div>
                                         <div>
                                             <div>
-                                                <a class="badge_btn_6 mb_15" href="#">Today</a>
+                                                <a class="badge_btn_6 mb_15" href="#">Hôm nay</a>
                                             </div>
                                             <div>
-                                                <a class="badge_btn_7" href="#">This week</a>
+                                                <a class="badge_btn_7" href="#">Tuần này</a>
                                             </div>
                                         </div>
                                     </div>
@@ -540,7 +538,8 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Top Global Sales</h3>
+                                    <h3 class="m-0">Doanh thu toàn cầu hàng đầu
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -604,7 +603,8 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Monthly Invoices</h3>
+                                    <h3 class="m-0">Hóa đơn hàng tháng
+                                    </h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -618,15 +618,15 @@
                                             class="dropdown-menu dropdown-menu-right"
                                             aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-eye"></i> Action</a>
+                                                <i class="ti-eye"></i> Tính năng</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-trash"></i> Delete</a>
+                                                <i class="ti-trash"></i> Xóa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fas fa-edit"></i> Edit</a>
+                                                <i class="fas fa-edit"></i> Sửa</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="ti-printer"></i> Print</a>
+                                                <i class="ti-printer"></i> In ra</a>
                                             <a class="dropdown-item" href="#">
-                                                <i class="fa fa-download"></i> Download</a>
+                                                <i class="fa fa-download"></i>Tải về</a>
                                         </div>
                                     </div>
                                 </div>
@@ -638,11 +638,11 @@
                                 <table class="table lms_table_active2 p-0">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Customer</th>
-                                            <th scope="col">Product</th>
-                                            <th scope="col">Invoice</th>
-                                            <th scope="col">Price</th>
-                                            <th scope="col">Status</th>
+                                            <th scope="col">Khách hàng</th>
+                                            <th scope="col">Sản phẩm</th>
+                                            <th scope="col">Hóa đơn</th>
+                                            <th scope="col">Giá</th>
+                                            <th scope="col">Trạng thái</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -655,14 +655,14 @@
                                                             src="img/customers/1.png"
                                                             alt="" />
                                                     </div>
-                                                    <span class="f_s_14 f_w_400 color_text_1">Customer</span>
+                                                    <span class="f_s_14 f_w_400 color_text_1">Khách hàng</span>
                                                 </div>
                                             </td>
-                                            <td class="f_s_14 f_w_400 color_text_2">Sunglass</td>
+                                            <td class="f_s_14 f_w_400 color_text_2">Adidas sport shoes</td>
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_1">Pending</a>
+                                                <a href="#" class="badge_btn_1">chờ xử lí </a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -674,14 +674,14 @@
                                                             src="img/customers/2.png"
                                                             alt="" />
                                                     </div>
-                                                    <span class="f_s_14 f_w_400 color_text_1">Customer</span>
+                                                    <span class="f_s_14 f_w_400 color_text_1">Customer 2</span>
                                                 </div>
                                             </td>
                                             <td class="f_s_14 f_w_400 color_text_2">Sunglass</td>
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_2">Paid</a>
+                                                <a href="#" class="badge_btn_2">Hoãn</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -700,7 +700,7 @@
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_3">Shipped</a>
+                                                <a href="#" class="badge_btn_3">Đã giao </a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -719,7 +719,7 @@
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_3">Shipped</a>
+                                                <a href="#" class="badge_btn_3">Đã giao </a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -738,7 +738,7 @@
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_2">Paid</a>
+                                                <a href="#" class="badge_btn_2">Hoãn</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -757,7 +757,7 @@
                                             <td class="f_s_14 f_w_400 color_text_3">#DE2548</td>
                                             <td class="f_s_14 f_w_400 color_text_4">$350</td>
                                             <td class="f_s_14 f_w_400 text-end">
-                                                <a href="#" class="badge_btn_4">Delivered</a>
+                                                <a href="#" class="badge_btn_4">Đang xử lí</a>
                                             </td>
                                         </tr>
                                     </tbody>
@@ -771,7 +771,7 @@
                         <div class="white_card_header">
                             <div class="box_header m-0">
                                 <div class="main-title">
-                                    <h3 class="m-0">Top Selling Product</h3>
+                                    <h3 class="m-0">Sản phẩm bán chạy</h3>
                                 </div>
                                 <div class="header_more_tool">
                                     <div class="dropdown">
@@ -972,10 +972,10 @@
                                 <table class="table lms_table_active2 p-0">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Product</th>
-                                            <th scope="col">Product Code</th>
-                                            <th scope="col">Price</th>
-                                            <th scope="col">Status</th>
+                                            <th scope="col">Sản phẩm</th>
+                                            <th scope="col">Mã của sản phẩm</th>
+                                            <th scope="col">Giá</th>
+                                            <th scope="col">Trạng thái  </th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -1072,8 +1072,8 @@
     <!--/ footer  -->
 
     <div id="back-top" style="display: none">
-      <a title="Go to Top" href="#">
-        <i class="ti-angle-up"></i>
-      </a>
+        <a title="Go to Top" href="#">
+            <i class="ti-angle-up"></i>
+        </a>
     </div>
 </section>

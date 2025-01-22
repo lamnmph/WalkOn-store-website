@@ -41,6 +41,7 @@
         <!-- main -->
         <div class="container-fluid">
             <p class="h1 text-dark  text-center">Danh mục sản phẩm (category)</p>
+            <button class="mb-2 btn btn-primary">Thêm danh mục sản phẩm</button>
             <table class="table text-center">
                 <thead class="thead table-success ">
                     <tr>
